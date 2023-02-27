@@ -8,11 +8,11 @@ nuget Fable.Mocha
 nuget Fable.Remoting.Client
 nuget Fable.Remoting.Giraffe
 nuget Feliz
-nuget Feliz.Bulma
+nuget Feliz.Bulma 3.0.0-pre-002 pre
+nuget Fulma 3.0.0-beta-001 beta
 nuget Saturn
 nuget Expecto
 
-nuget Fulma
 
 nuget Fake.Core.Target
 nuget Fake.IO.FileSystem
